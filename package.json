@@ -1,0 +1,23 @@
+{
+  "name": "sample-json-api",
+  "version": "1.0.0",
+  "description": "Sample JSON API written with Fortune.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "jsonapi",
+    "json",
+    "api"
+  ],
+  "author": "code-for-coffee",
+  "license": "ISC",
+  "dependencies": {
+    "fortune": "^5.4.2",
+    "fortune-http": "^1.2.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
