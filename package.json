@@ -4,7 +4,8 @@
   "description": "Sample JSON API written with Fortune.js",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "watch": "npx nodemon",
   },
   "keywords": [
     "jsonapi",
